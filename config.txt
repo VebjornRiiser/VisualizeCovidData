@@ -1,0 +1,6 @@
+apiKey:apiKeyHereWithNoSpacesOrQuotes
+smtpKey:AppPasswordForEmailHere
+Api key is obtained by logging in and subscribing at https://utvikler.helsedirektoratet.no/products/covid19.
+after subscribing, your api key will appear at your profile https://utvikler.helsedirektoratet.no/developer. api key is named primærnøkkel
+
+How to obtain the smtpKey varies but in gmail the instructions are here https://support.google.com/mail/answer/185833?hl=en-GB
